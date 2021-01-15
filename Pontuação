@@ -1,0 +1,21 @@
+TAREFAS: (verbo + assunto)
+Pontuação
+Leitura de inputs do teclado/rato 
+Modelar a nave, asteróides, tiros
+Texto antes do jogo
+Menu:
+	-Novo jogo -> Inserir username
+	-Rankings
+	-Controlos
+	-Sair
+Fundo
+Dificuldade de jogo
+//Texto no jogo Player
+//Tempo de jogo
+-------------------------------------------------------------------------------
+NOTAS:
+--Limitar o número de tiros com um contador
+--Com o passar do tempo, aumentar o nº de tiros necessários para destruir os tiros. Diferentes cores -> dificuldades
+--Vida da nave -> barra com a vida
+--Dificuldade aumenta conforme a pontuação
+--mudar de first person para third person
