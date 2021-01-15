@@ -1,28 +1,28 @@
 ﻿  main.cpp
-C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\Header1.h(89,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\Header1.h(89,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\Header1.h(90,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\Header1.h(90,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\Header1.h(130,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\Header1.h(168,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\Header1.h(231,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\Header1.h(231,10): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\Header1.h(275,85): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\jogo.h(89,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\jogo.h(89,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\jogo.h(90,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\jogo.h(90,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\jogo.h(130,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\jogo.h(168,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\jogo.h(231,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\jogo.h(231,10): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\jogo.h(275,85): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
           with
           [
               _Ty2=float
           ]
-C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\Header1.h(275,41): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\jogo.h(275,41): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
           with
           [
               _Ty1=float
           ]
-C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\Header1.h(274,93): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\jogo.h(274,93): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
           with
           [
               _Ty2=float
           ]
-C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\Header1.h(274,49): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+C:\Users\Daniel\Desktop\Projeto_CGNew\Project\Project\jogo.h(274,49): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
           with
           [
               _Ty1=float

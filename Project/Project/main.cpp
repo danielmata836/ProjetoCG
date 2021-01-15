@@ -3,7 +3,7 @@
 #include <algorithm>
 using namespace std;
 #include "Header.h"
-#include "Header1.h"
+#include "jogo.h"
 
 
 int main()

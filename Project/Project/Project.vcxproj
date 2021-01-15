@@ -140,7 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Header.h" />
-    <ClInclude Include="Header1.h" />
+    <ClInclude Include="jogo.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
